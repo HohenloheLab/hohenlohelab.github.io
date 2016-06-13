@@ -96,6 +96,8 @@
 		font-style: italic;
 	}
 	
+	
+	
 	p, ul, ol, dl, table
 	{
 		margin-bottom: 1em;
@@ -131,7 +133,15 @@
 	{
 		color: #bbb;
 	}
-
+	
+	.hangingindent 
+	{
+  		padding-left: 22px ;
+  		text-indent: -22px ;
+	}
+	
+	
+	
 	/* Sections/Articles */
 	
 		section,
