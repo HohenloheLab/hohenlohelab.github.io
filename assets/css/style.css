@@ -797,7 +797,7 @@
 	#header
 	{
 		position: relative;
-		background: url(../images/Tern2.tiff) no-repeat bottom center;
+		background: url(../images/Tern2.tiff) no-repeat top center;
 		background-attachment: fixed;
 		background-size: cover;
 		text-align: center;
