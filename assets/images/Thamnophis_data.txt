@@ -1,0 +1,48 @@
+39
+2
+500
+10000
+6	3
+7.525	1.984
+1.984	7.980
+(((((((melano1:14.5,melano2:14.5):14.5,(validus1:29.0,validus2:29.0):29.0):4.0,((((mendax:9.0,sumichras:14.0):6.0,scalaris:18.0):12.0,godmani:24.0):4.0,(errans:29.0,exsul:20.0):6.0):3.0):14.0,(nigronuch:49.0,rufipunc:48.0):15.0):8.0,((((((((atratus:10.0,(elegans1:4.0,elegans2:4.0):4.0):6.0,(couchii:16.0,gigas:14.0):0.5):9.0,ordinoid:19.0):3.0,hammondii:30.0):3.0,(brachysto:6.0,(butleri:7.0,(radix1:1.0,radix2:1.0):1.0):2.0):22.0):5.0,((eques1:12.0,eques2:12.0):12.0,(marcian1:19.5,marcian2:19.5):19.5):16.0):22.0,((cyrcoll:46.0,pulchril:28.0):4.0,cyrcyr:20.0):12.5):14.0,(chryso:41.0,fulvus:44.0):19.0):7.0):12.0,((proximus:38.0,sauritus:23.0):50.0,(sirtalis1:28.5,sirtalis2:28.5):28.5):9.0):29.0,((erythro1:30.6,erythro2:30.6):30.6,fasciata:61.2):30.7);
+melano1	145.20 	72.50 
+melano2	143.70 	60.50 
+validus1	141.10 	71.00 
+validus2	133.60 	68.70 
+errans	158.73 	73.30 
+exsul	145.00 	53.40 
+godmani	141.75 	65.56 
+mendax	141.50 	58.00 
+sumichras	152.50 	62.50 
+scalaris	140.00 	59.79 
+nigronuch	156.53 	66.57 
+rufipunc	164.68 	70.21 
+atratus	147.00 	71.00 
+elegans1	167.52 	80.59 
+elegans2	151.73 	71.25 
+couchii	174.00 	82.00 
+gigas	161.00 	73.00 
+ordinoid	144.93 	63.63 
+hammondii	162.60 	73.00 
+brachysto	136.60 	59.30 
+butleri	137.50 	56.60 
+radix1	151.00 	65.00 
+radix2	157.20 	67.00 
+eques1	157.26 	71.97 
+eques2	157.50 	71.13 
+marcian1	156.80 	68.20 
+marcian2	149.10 	68.60 
+cyrcoll	153.40 	88.70 
+pulchril	162.70 	76.10 
+cyrcyr	167.90 	78.30 
+chryso	145.00 	73.00 
+fulvus	140.69 	62.73 
+proximus	163.89 	100.86 
+sauritus	156.75 	112.08 
+sirtalis1	160.12 	78.73 
+sirtalis2	151.70 	79.95 
+erythro1	152.60 	65.00 
+erythro2	150.00 	66.60 
+fasciata	129.57 	69.50 
+
